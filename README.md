@@ -1,1 +1,1 @@
-# vimscripts
+# study vimscripts
